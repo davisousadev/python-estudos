@@ -9,4 +9,4 @@ if nome_usuario and idadade_usuario:
     print(f'A última letra do seu nome é {nome_usuario[-1]}')
     print(f'Sua idade é {idadade_usuario}')
 else:
-    print('Nome ou idade não fornecidos.')
+    print('Nome ou idade não fornecidos.')   
