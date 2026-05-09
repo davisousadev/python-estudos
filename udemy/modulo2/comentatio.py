@@ -5,5 +5,5 @@
  varias linhas
  mas isso nao e um comentario 
  -----------------
- docker string
+ doc string
 """
